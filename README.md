@@ -40,7 +40,7 @@ This lecture is based on your readings for the week:
     ```
     - If you can't seem to paste anything, try using Ctrl+Shift+V (or Command+Shift+V)
 6. You should see a new folder named `week-5` inside your class folder
-7. Open up the week 6 lab lecture notebook and follow along!
+7. Open up the week 5 lab lecture notebook and follow along!
 
 ### If JupyterLab _really_ doesn't work for you
 
