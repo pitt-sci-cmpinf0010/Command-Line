@@ -37,7 +37,7 @@ This lecture is based on your readings for the week:
 
 ### If JupyterHub doesn't work for you
 
-Use Binder:
+Use Binder!
 
 _**Important**:_ Binder does **not** always save your work. If you need to stop working on your lab for more than 30 minutes, you need to **download** your exercises notebook to you computer. Then, you can reupload it again later to continue your work.
 
