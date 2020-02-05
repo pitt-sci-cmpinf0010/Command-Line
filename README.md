@@ -11,10 +11,9 @@ If you have questions about this week's lab, reading, or lecture, ANY TA for thi
 
 If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems. Office hours are:
 
-* Tuesday, 11-12
+* Monday, 2-4
 * Tuesday, 4-5
-* Thursday, 10-12
-* Friday, 11-12
+* Thursday, 4-5
 
 Office hours will be held in the same place as last week, the Digital Scholarship Commons in the back of the ground floor of Hillman Library.
 
@@ -29,20 +28,14 @@ This lecture is based on your readings for the week:
 * [Software Carpentry, *The Shell*](http://swcarpentry.github.io/shell-novice/)
 * Optional: [Neal Stephenson, *In the Beginning was the Command Line*](http://cristal.inria.fr/~weis/info/commandline.html)
 
-## Getting Started™
+## Getting Started Again™
 
-1. In JupyterLab, open a Launcher and select `Terminal`
-4. Type in `cd CMPINF0010`
-    - Or, **if you named your class folder something different**, replace `CMPINF0010` with whatever you named your folder
-5. Now, copy and paste this command into the terminal
-    ```
-    git clone https://github.com/pitt-sci-cmpinf0010/week-5.git
-    ```
-    - If you can't seem to paste anything, try using Ctrl+Shift+V (or Command+Shift+V)
-6. You should see a new folder named `week-5` inside your class folder
-7. Open up the week 5 lab lecture notebook and follow along!
+1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
+2. Go to Modules
+5. Click `Skills Lab Week 4` and click where is says `Click Here!`
+6. JupyterHub should open up to this week's materials!
 
-### If JupyterLab _really_ doesn't work for you
+### If JupyterHub doesn't work for you
 
 Use Binder:
 
