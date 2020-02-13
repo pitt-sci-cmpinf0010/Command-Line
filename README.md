@@ -32,7 +32,7 @@ This lecture is based on your readings for the week:
 
 1. In Canvas (canvas.pitt.edu), click on this class, CMPINF0010
 2. Go to Modules
-5. Click `Skills Lab Week 4` and click where is says `Click Here!`
+5. Click `Skills Lab Week 5` and click where is says `Click Here!`
 6. JupyterHub should open up to this week's materials!
 
 ### If JupyterHub doesn't work for you
