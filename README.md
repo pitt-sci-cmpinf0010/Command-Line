@@ -34,9 +34,7 @@ Click this button to get started with Binder:
 
 ## Submitting your finished lab
 
-Just kidding, there is no lab!
-
-Instead, go ahead and make yourself a GitHub account in order to prepare for next week's lab.
+Make yourself a GitHub account in order to prepare for next week's lab. Get the URL to your profile, and submit it to Canvas.
 
 #### How to sign up for GitHub:
  * Go to [github.com](https://github.com)
@@ -44,4 +42,5 @@ Instead, go ahead and make yourself a GitHub account in order to prepare for nex
      * use your Pitt email to create an account
      * name your account something you don't mind sharing with future employers
  * Don't forget to email-verify your account and/or set up 2 factor authentication (if you want).
+ * Submit the URL for your profile on Canvas
  * You're done! 
