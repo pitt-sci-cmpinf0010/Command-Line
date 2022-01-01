@@ -1,8 +1,8 @@
 # README
 
-## Office hours
+# Readme
 
-If you have questions about this week's lab, reading, or lecture, ANY TA for this class can help you with any problems. That being said, only email YOUR TA! Office hours are on Discord and Zoom. If none of the times for for you, please don't hesitate to reach out via email to set up another time.
+If you have questions about this week's lab ANY TA for this class can help you with any problems.
 
 ## Today: The Command Line!
 
@@ -15,11 +15,11 @@ This lecture is based on your readings for the week:
 
 ## Getting Started Again™
 
-1. Open Jupyter Lab and start a terminal
-2. Navigate to the folder you wish to download this lab
-3. Type in git clone https://github.com/pitt-sci-cmpinf0010/lab-4.git and hit the enter key
-4. This should download a folder to your local machine with the lab (it should be called lab-4)
-5. Launch the desired notebook
+1. Log into SCI JupyterHub and start a terminal
+2. Type in `git clone https://github.com/pitt-sci-cmpinf0010/Command-Line.git` and hit the enter key
+3. This should download a folder to your JupyterHub with the lab (it should be called `Command-Line`)
+4. Double click the new folder in the file explorer. You should see the lab contents.
+5. Launch the `Lab-Lesson.ipynb` notebook to review the lesson
 
 ### If JupyterHub doesn't work for you
 
@@ -27,14 +27,13 @@ Use Binder!
 
 _**Important**:_ Binder does **not** always save your work. If you need to stop working on your lab for more than 30 minutes, you need to **download** your exercises notebook to you computer. Then, you can reupload it again later to continue your work.
 
-Click this button to get started with Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/lab-4/master?urlpath=lab)
+Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pitt-sci-cmpinf0010/Command-Line/HEAD)
 
 ---
 
 ## Submitting your finished lab
 
-Make yourself a GitHub account in order to prepare for next week's lab. Get the URL to your profile, and submit it to Canvas.
+This week you won't be submitting a jupyter notebook. Instead, make yourself a GitHub account in order to prepare for next week's lab. Get the URL to your profile, and submit it to Canvas.
 
 #### How to sign up for GitHub:
  * Go to [github.com](https://github.com)
@@ -42,5 +41,5 @@ Make yourself a GitHub account in order to prepare for next week's lab. Get the 
      * use your Pitt email to create an account
      * name your account something you don't mind sharing with future employers
  * Don't forget to email-verify your account and/or set up 2 factor authentication (if you want).
- * Submit the URL for your profile on Canvas
+ * Submit the URL for your profile on Canvas. This [https://www.quora.com/How-could-I-copy-my-GitHub-profile-URL](quora page) has instructions if you are having trouble finding the URL for your profile.
  * You're done! 
