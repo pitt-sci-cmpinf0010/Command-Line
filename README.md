@@ -33,7 +33,7 @@ Click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.or
 
 ## Submitting your finished lab
 
-This week you won't be submitting a jupyter notebook. Instead, make yourself a GitHub account in order to prepare for next week's lab. Get the URL to your profile, and submit it to Canvas.
+This week you get a little bit of a break. There are some exercises for you to complete in class to get more familiar with the command line; however, you don't need to submit these exercises. Instead, make yourself a GitHub account in order to prepare for next week's lab. Get the URL to your profile, and submit it to Canvas.
 
 #### How to sign up for GitHub:
  * Go to [github.com](https://github.com)
