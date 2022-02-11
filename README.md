@@ -40,5 +40,5 @@ This week you get a little bit of a break. There are some exercises for you to c
  * Follow the instructions to create an account
      * name your account something you don't mind sharing with future employers
  * Don't forget to email-verify your account and/or set up 2 factor authentication (if you want).
- * Submit the URL for your profile on Canvas. This [https://www.quora.com/How-could-I-copy-my-GitHub-profile-URL](quora page) has instructions if you are having trouble finding the URL for your profile.
+ * Submit the URL for your profile on Canvas. This [quora page](https://www.quora.com/How-could-I-copy-my-GitHub-profile-URL) has instructions if you are having trouble finding the URL for your profile.
  * You're done! 
