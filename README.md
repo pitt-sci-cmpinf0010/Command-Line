@@ -11,7 +11,7 @@ Today's lesson takes a departure from your usual self-guided reading/doing/strug
 This lecture is based on your readings for the week:
 * [Tracy Osborn, *Really Friendly Command Line Intro*](https://hellowebbooks.com/learn-command-line/#cmd-tut)
 * [Software Carpentry, *The Shell*](http://swcarpentry.github.io/shell-novice/)
-* Optional: [Neal Stephenson, *In the Beginning was the Command Line*](http://cristal.inria.fr/~weis/info/commandline.html)
+* Optional: [Neal Stephenson, *In the Beginning was the Command Line*](https://people.cs.georgetown.edu/~clay/classes/spring2010/os/inthebeginning.pdf)
 
 ## Getting Started Again™
 
